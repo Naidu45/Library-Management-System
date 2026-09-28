@@ -58,3 +58,5 @@ public class AuthController {
     }
 
 }
+
+// implement forgot password and reset password functionality in the auth service
